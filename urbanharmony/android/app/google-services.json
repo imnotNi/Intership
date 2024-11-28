@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "423279778602",
+    "project_id": "urban-harmony-burntout",
+    "storage_bucket": "urban-harmony-burntout.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423279778602:android:a943bc4b3f191bc89adc53",
+        "android_client_info": {
+          "package_name": "com.burntout"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWtZwJVKjETwzDz98xocUL7KMudBevkYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423279778602:android:4c30514e1eb7fe089adc53",
+        "android_client_info": {
+          "package_name": "com.burntout.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWtZwJVKjETwzDz98xocUL7KMudBevkYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423279778602:android:bbbe0966d250c09b9adc53",
+        "android_client_info": {
+          "package_name": "com.example.instagram_clone_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWtZwJVKjETwzDz98xocUL7KMudBevkYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
